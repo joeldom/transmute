@@ -5,11 +5,11 @@
 ```.html
 <!DOCTYPE html>
 <html><head>
-    <title>YouTube Downloader</title>
+    <title>TRANSMUTE</title>
 </head><body>
     <h1 class="heading">My Own YouTube Downloader !</h1>
-    <input class="URL-input" placeholder="Video URL e.g. https://www.youtube.com/watch?v=MtN1YnoL46Q">
-    <button class="convert-button">Convert</button>
+    <input class="URL-input" placeholder="URL: https://www.youtube.com/watch?v=MtN1YnoL46Q">
+    <button class="convert-button">Transmute</button>
 </body>
 </html>
 ```
